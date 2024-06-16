@@ -1,5 +1,12 @@
 package ec.edu.uce.ProyectoRelacionesDDBB;
 
+/*
+*
+* @author: John Andino
+* Tema: Relaciones en la DDBB
+*
+ */
+
 import ec.edu.uce.ProyectoRelacionesDDBB.model.*;
 import ec.edu.uce.ProyectoRelacionesDDBB.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
